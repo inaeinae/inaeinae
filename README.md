@@ -14,7 +14,7 @@ I will try every day for a more enjoyable experience with you. 🍀
 <!-- <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=%23&logoColor=white"/></a> --> <!-- C# -->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> <!-- Oracle -->
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a> <!-- MariaDB -->
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a> <!-- Microsoft SQL Server -->
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/></a> <!-- Microsoft SQL Server -->
 <!-- <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a> --> <!-- GitLab -->
 <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a> --> <!-- Jenkins -->
   
